@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecDSM</string>
+    <string name="mqtt_topic1">Topic1</string>
+    <string name="mqtt_topic1_payload">Payload</string>
+    <string name="button_text">IOT Info</string>
+    <string name="second_page">IOT Controller Info</string>
+</resources>
