@@ -18,6 +18,7 @@ public class MqttHelper {
     public MqttAndroidClient mqttAndroidClient;
 
     final String server = "tcp://myothercomputerisyourcomputer.com:1883";
+
     final String clientID = "zero_cool";
     final String subscriptionTopic = "the_gibson/+";
 
