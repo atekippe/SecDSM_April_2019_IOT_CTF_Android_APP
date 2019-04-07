@@ -14,13 +14,13 @@ import org.eclipse.paho.client.mqttv3.MqttException;
 import org.eclipse.paho.client.mqttv3.MqttMessage;
 
 public class MqttHelper {
-
+    // to add ability to publish from the app
     public MqttAndroidClient mqttAndroidClient;
 
     final String server = "tcp://myothercomputerisyourcomputer.com:1883";
 
     final String clientID = "zero_cool";
-    final String subscriptionTopic = "the_gibson/+";
+    final String subscriptionTopic = "the_gibson/haxor";
 
     final String username = "dade";
     final String password = "trashing_our_rights";
